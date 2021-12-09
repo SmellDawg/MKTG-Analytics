@@ -9,4 +9,13 @@ This is the prortfolio for all class assignments I complted in MKTG3509 Customer
    - Markdown CV
 2. Fundamentals of Program for Data Analytics
    - Programming Fundamentals
-3.
+3. Working with Data
+   - Yelp reviews
+4. Data Vizualization
+   - Rent the Runway & Orange Telecom
+5. Hypothesis Testing
+   - FB ads & Starbucks promos
+6. Regression Analysis
+   - Regression Analysis
+7. Discrete Outcomes
+   - Logit
